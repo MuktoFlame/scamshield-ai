@@ -1,0 +1,25 @@
+{
+  "model": "char 3-5g TF-IDF + LogisticRegression (hostnames, host-deduped)",
+  "task": "phishing URL detection",
+  "trained_on": "2026-07-04",
+  "dataset": {
+    "total": 79389,
+    "phishing": 29942,
+    "legit": 49447,
+    "sources": [
+      "PhiUSIIL Phishing URL Dataset (UCI #967)"
+    ]
+  },
+  "test_split": 0.2,
+  "accuracy": 0.8395,
+  "precision": 0.8168,
+  "recall": 0.7406,
+  "f1": 0.7768,
+  "roc_auc": 0.8908,
+  "confusion_matrix": {
+    "tn": 8895,
+    "fp": 995,
+    "fn": 1553,
+    "tp": 4435
+  }
+}

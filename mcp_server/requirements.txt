@@ -1,0 +1,2 @@
+fastmcp>=2.0
+# plus everything in ../backend/requirements.txt (the server imports app.services)

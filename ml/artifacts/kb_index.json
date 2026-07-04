@@ -1,0 +1,184 @@
+{
+ "chunks": [
+  {
+   "doc_id": "account-safety",
+   "title": "Everyday account safety — Passwords",
+   "text": "Use a different password for every important account — email above all, since whoever controls your email can reset everything else. A password manager, or even a paper notebook stored at home, beats reusing one password everywhere."
+  },
+  {
+   "doc_id": "account-safety",
+   "title": "Everyday account safety — Two-factor authentication",
+   "text": "Turning on two-factor authentication means a stolen password alone is not enough to enter your account. Enable it for email, banking, and social media first. App-based codes are stronger than SMS codes, but any second factor is far better than none."
+  },
+  {
+   "doc_id": "account-safety",
+   "title": "Everyday account safety — Checking a login alert",
+   "text": "\"New sign-in to your account\" alerts are faked constantly. Never use the button in the alert itself — open the app or type the website address yourself, then check the account's own security page for real sessions."
+  },
+  {
+   "doc_id": "account-safety",
+   "title": "Everyday account safety — Public Wi-Fi and shared devices",
+   "text": "Avoid logging into banking on public Wi-Fi or someone else's device. If you must, change the password afterwards from your own device."
+  },
+  {
+   "doc_id": "bangladesh-specific",
+   "title": "Scams in Bangladesh: bKash, Nagad and local patterns — Mobile money (bKash/Nagad) scams",
+   "text": "The classic script: a call or SMS claims your bKash or Nagad account will be suspended, or that you received money \"by mistake\" that must be returned. The caller then asks for your PIN or the OTP sent to your phone. bKash and Nagad never call to ask for a PIN or OTP — sharing them hands your wallet to the caller. Dial the official helpline (bKash: 16247, Nagad: 16167) yourself if unsure."
+  },
+  {
+   "doc_id": "bangladesh-specific",
+   "title": "Scams in Bangladesh: bKash, Nagad and local patterns — Fake job offers",
+   "text": "Offers of easy online work paying hundreds of taka per task, requiring a \"registration fee\" or \"training kit\" payment first, are advance-fee fraud. Legitimate employers pay you — never the other way around."
+  },
+  {
+   "doc_id": "bangladesh-specific",
+   "title": "Scams in Bangladesh: bKash, Nagad and local patterns — Where to report",
+   "text": "Report online fraud to the National Emergency Service by dialing 999, or to the Police Cyber Support for Women & Children and the Cyber Police Centre (cyber@police.gov.bd). Keep screenshots of messages, numbers, and transaction IDs — they make investigation possible."
+  },
+  {
+   "doc_id": "bangladesh-specific",
+   "title": "Scams in Bangladesh: bKash, Nagad and local patterns — Lottery and prize SMS in Bangla",
+   "text": "Prize messages claiming you won a lottery from a telecom operator or TV show, asking for a fee or your mobile-money PIN to claim, are mass-sent scams. No operator awards prizes that require payment to receive."
+  },
+  {
+   "doc_id": "delivery-and-subscriptions",
+   "title": "Delivery and subscription scams — Fake delivery notices",
+   "text": "\"Your package could not be delivered — pay a small customs/redelivery fee\" is bait for your card details; the tiny fee is never the point. Track parcels only inside the courier's official app or by typing the courier's website address yourself. Couriers do not collect fees through links in text messages."
+  },
+  {
+   "doc_id": "delivery-and-subscriptions",
+   "title": "Delivery and subscription scams — Fake subscription renewals",
+   "text": "Emails claiming Netflix, Amazon or an antivirus charged you hundreds of dollars, with a phone number to call for a \"refund\", are designed to get you on the phone with the scammer. Check your actual bank statement and the service's own app; if no charge exists, the email is the scam."
+  },
+  {
+   "doc_id": "delivery-and-subscriptions",
+   "title": "Delivery and subscription scams — Fake order confirmations",
+   "text": "An invoice for an expensive item you never bought, with a number to call to \"cancel the order\", works the same way: the danger is the phone call, where you will be talked into remote access or a \"refund\" that empties your account."
+  },
+  {
+   "doc_id": "fake-news-literacy",
+   "title": "Spotting misinformation — Style is a warning, not a verdict",
+   "text": "ALL-CAPS headlines, \"SHOCKING\", \"they don't want you to know\", and demands to share before it is \"deleted\" are the style of engagement bait. Sober-looking text can still be false, and emotional text can be true — style is a reason to check, not a conclusion."
+  },
+  {
+   "doc_id": "fake-news-literacy",
+   "title": "Spotting misinformation — Check the claim, not the vibe",
+   "text": "Take the single most concrete claim in the story — a name, a number, a date — and search for it from an independent source. If only one website in the world carries a \"huge\" story, that is the answer. Real events leave traces across unrelated outlets within hours."
+  },
+  {
+   "doc_id": "fake-news-literacy",
+   "title": "Spotting misinformation — Manipulated context",
+   "text": "The most common misinformation is not fabricated text but a real photo or clip with the wrong caption — an old event presented as today's, a different country presented as yours. A reverse image search usually settles it in seconds."
+  },
+  {
+   "doc_id": "fake-news-literacy",
+   "title": "Spotting misinformation — Before you share",
+   "text": "Misinformation spreads because sharing takes one second and checking takes one minute. If a post makes you angry or triumphant, that emotional spike is exactly when to pause — content engineered to go viral targets feelings, not facts."
+  },
+  {
+   "doc_id": "if-you-were-scammed",
+   "title": "If you were scammed: damage control — First hour checklist",
+   "text": "Money sent: call your bank or mobile-money provider immediately — some transfers can be frozen if reported fast. Password entered on a fake site: change it now everywhere you used it, starting with email, and enable two-factor authentication. Remote access given: disconnect the device from the internet and do not use it for banking until it is checked."
+  },
+  {
+   "doc_id": "if-you-were-scammed",
+   "title": "If you were scammed: damage control — Preserve the evidence",
+   "text": "Do not delete the conversation. Screenshot messages, numbers, email addresses, web addresses and payment references. Reports without evidence rarely go anywhere; reports with screenshots and transaction IDs can."
+  },
+  {
+   "doc_id": "if-you-were-scammed",
+   "title": "If you were scammed: damage control — Do not pay to \"recover\" your money",
+   "text": "Victims are routinely re-targeted by \"recovery agents\" who claim they can get the money back for an upfront fee. This is the same scam wearing a new mask. Only your bank, the payment platform, and the police are part of a real recovery process."
+  },
+  {
+   "doc_id": "if-you-were-scammed",
+   "title": "If you were scammed: damage control — Tell someone",
+   "text": "Scammers count on shame keeping victims silent. Telling family and reporting the fraud is not embarrassing — staying silent is exactly what lets the same scam reach the next person."
+  },
+  {
+   "doc_id": "message-scams",
+   "title": "Common message scams — Fake bank alerts",
+   "text": "Banks never ask you to \"verify your identity\", share a PIN, or click a link to unlock an account by text message. If a message claims your account is locked, call the number printed on your bank card — never the number or link in the message itself."
+  },
+  {
+   "doc_id": "message-scams",
+   "title": "Common message scams — Gift cards are money",
+   "text": "No legitimate business, government agency, or employer settles anything in gift cards. The moment anyone asks to be paid in iTunes, Google Play, or Steam cards, it is a scam — gift card codes are untraceable cash that cannot be refunded."
+  },
+  {
+   "doc_id": "message-scams",
+   "title": "Common message scams — The family emergency trick",
+   "text": "A message claiming to be a relative in urgent trouble on a new number, asking for secrecy and fast money, is one of the oldest scams. Hang up and call the relative on the number you already have. A real emergency survives a two-minute check; a scam does not."
+  },
+  {
+   "doc_id": "message-scams",
+   "title": "Common message scams — One-time passwords (OTP)",
+   "text": "An OTP code is the key to your account. Banks and companies send codes TO you; they never call or message to ask you to read a code back. Anyone asking for your OTP — no matter who they claim to be — is breaking into your account at that very moment."
+  },
+  {
+   "doc_id": "online-shopping",
+   "title": "Safe online shopping — Prices that are too good",
+   "text": "A flagship phone at a fifth of its price is not a bargain — it is bait. Before buying, search the product's normal price. Counterfeit sellers rely on the excitement of a deal overriding the obvious question of why nobody else sells it that cheap."
+  },
+  {
+   "doc_id": "online-shopping",
+   "title": "Safe online shopping — Stay inside the platform",
+   "text": "Marketplace buyer protection only works when payment goes through the platform's own checkout. A seller who asks to move to WhatsApp or Telegram, requests a bank transfer, mobile money, or gift cards, or offers a discount for paying \"directly\" is removing your only safety net on purpose."
+  },
+  {
+   "doc_id": "online-shopping",
+   "title": "Safe online shopping — Judging a seller",
+   "text": "Look at the account's age, past listings, and review patterns. Dozens of five-star reviews posted in the same week, all in the same generic wording (\"best product ever\", \"100% original\"), are purchased reviews. A genuine seller history grows unevenly over months and includes mundane complaints."
+  },
+  {
+   "doc_id": "online-shopping",
+   "title": "Safe online shopping — Counterfeit warning signs",
+   "text": "Blurry or watermarked stock photos, brand names slightly misspelled, \"OEM\" or \"replica\" wording buried in the description, and shipping from an unexpected country for a local listing all point to counterfeit goods."
+  },
+  {
+   "doc_id": "phishing-websites",
+   "title": "Recognizing phishing websites — How to read a web address",
+   "text": "The only part of a web address that matters is the registered domain — the part just before .com, .org or similar. In \"secure-paypal-login.example.tk\", the site is \"example.tk\", not PayPal. Scammers stuff trusted names into the front of an address hoping you stop reading before the real domain."
+  },
+  {
+   "doc_id": "phishing-websites",
+   "title": "Recognizing phishing websites — Signs of a fake login page",
+   "text": "A page that asks for your password but lives on an address you have never seen, uses a free domain ending like .tk or .xyz, shows subtle spelling errors, or pressures you with warnings is very likely a phishing page. Real companies send you to the same address every time — when in doubt, type the company's address yourself instead of clicking a link."
+  },
+  {
+   "doc_id": "phishing-websites",
+   "title": "Recognizing phishing websites — What to do about a suspicious link",
+   "text": "Do not click it. If you already clicked, do not type anything. If you already entered a password, change that password immediately everywhere you use it and turn on two-factor authentication. If you entered card details, call your bank using the number on the back of your card and ask them to block the card."
+  },
+  {
+   "doc_id": "romance-and-investment",
+   "title": "Romance and investment scams — Romance scams",
+   "text": "The pattern: weeks of warm, attentive messages from someone you have never met in person — often claiming to work abroad — followed by an emergency only your money can solve, or an \"investment opportunity\" they want to share. Never send money to someone you have not met in person, and be suspicious of anyone who always has a reason a video call is impossible."
+  },
+  {
+   "doc_id": "romance-and-investment",
+   "title": "Romance and investment scams — Crypto and investment bait",
+   "text": "Guaranteed returns do not exist. Celebrity giveaways that \"double your Bitcoin\", trading platforms your online friend insists you try, and investment groups showing screenshots of huge profits are all variations of the same scam. Money sent to a crypto address is gone — there is no bank to call and no refund process."
+  },
+  {
+   "doc_id": "romance-and-investment",
+   "title": "Romance and investment scams — Advance-fee fraud",
+   "text": "Any offer where you must first pay a small fee — for taxes, customs, processing, or account activation — to unlock a much larger sum is fraud. The large sum never existed. This covers lottery winnings you never entered, unclaimed inheritances from unknown relatives, and generous strangers who chose you for a donation."
+  },
+  {
+   "doc_id": "tech-support-and-government",
+   "title": "Tech support and government impersonation — Fake tech support",
+   "text": "Microsoft, Apple and Google do not call people about viruses. A pop-up with a phone number, or a caller asking to install remote-access software (AnyDesk, TeamViewer) so they can \"fix\" your computer, is a scam. Hang up and close the browser. If someone did get remote access, disconnect the device from the internet and have it checked before using online banking again."
+  },
+  {
+   "doc_id": "tech-support-and-government",
+   "title": "Tech support and government impersonation — Government and tax threats",
+   "text": "Tax agencies and the police do not threaten arrest by phone, and they never demand payment through gift cards, wire transfers or cryptocurrency. Official matters arrive by letter, and no genuine agency needs to be paid within the hour. Threats of a \"warrant\" that can be canceled by instant payment are always fraudulent."
+  },
+  {
+   "doc_id": "tech-support-and-government",
+   "title": "Tech support and government impersonation — Utility disconnection threats",
+   "text": "\"Your electricity will be cut TODAY unless you pay immediately\" is a pressure script. Utility companies send multiple written notices before any disconnection. Check your account directly on the provider's official app or website, or call the number on a past bill."
+  }
+ ]
+}

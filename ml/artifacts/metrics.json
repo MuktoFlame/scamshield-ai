@@ -1,0 +1,27 @@
+{
+  "model": "TF-IDF (word 1-2g + char 3-5g) + LogisticRegression",
+  "trained_on": "2026-07-03",
+  "dataset": {
+    "total": 5206,
+    "scam": 668,
+    "legit": 4538,
+    "sources": [
+      "UCI SMS Spam Collection",
+      "curated scam/phishing samples"
+    ]
+  },
+  "test_split": 0.2,
+  "accuracy": 0.9894,
+  "precision": 0.9556,
+  "recall": 0.9627,
+  "f1": 0.9591,
+  "roc_auc": 0.9973,
+  "cv_f1_mean": 0.9395,
+  "cv_f1_std": 0.0236,
+  "confusion_matrix": {
+    "tn": 902,
+    "fp": 6,
+    "fn": 5,
+    "tp": 129
+  }
+}

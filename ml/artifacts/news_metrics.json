@@ -1,0 +1,25 @@
+{
+  "model": "word 1-2g TF-IDF + LogisticRegression",
+  "task": "fake-news style detection (writing-style signal, not truth)",
+  "trained_on": "2026-07-04",
+  "dataset": {
+    "total": 30000,
+    "fake": 15000,
+    "real": 15000,
+    "sources": [
+      "WELFake (Zenodo record 4561253)"
+    ]
+  },
+  "test_split": 0.2,
+  "accuracy": 0.9647,
+  "precision": 0.961,
+  "recall": 0.9687,
+  "f1": 0.9648,
+  "roc_auc": 0.9951,
+  "confusion_matrix": {
+    "tn": 2882,
+    "fp": 118,
+    "fn": 94,
+    "tp": 2906
+  }
+}
