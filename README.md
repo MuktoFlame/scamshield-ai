@@ -2,6 +2,12 @@
 
 **An all-in-one digital safety suite for the people who get targeted most.**
 
+🌐 **Live app:** [scamshield-ai-nu.vercel.app](https://scamshield-ai-nu.vercel.app) ·
+⚙️ **API docs:** [scamshield-api-slbw.onrender.com/docs](https://scamshield-api-slbw.onrender.com/docs)
+
+> The API runs on a free instance that sleeps when idle — the first request
+> after a quiet period takes up to a minute while it wakes.
+
 Check a suspicious **message**, a **website link**, a **news story or claim**,
 or a **product listing** — and get an instant risk level (Low / Medium / High)
 with the *reasons* explained in plain English or বাংলা, plus a concrete
@@ -122,12 +128,18 @@ cd backend && python -m pytest tests/ -v
 
 ## Deployment
 
-**Backend → Render**: push to GitHub → New Blueprint → pick the repo
-(`render.yaml` is read automatically) → set `GEMINI_API_KEY`, `MONGO_URI`
-(free Atlas M0), `CORS_ORIGINS`.
+The system is deployed and publicly accessible:
 
-**Frontend → Vercel**: Add New Project → root directory `frontend` → env var
-`VITE_API_URL` = the Render URL. Then add the Vercel URL to `CORS_ORIGINS`.
+| Component | Platform | URL |
+|---|---|---|
+| Frontend | Vercel | https://scamshield-ai-nu.vercel.app |
+| Backend API | Render | https://scamshield-api-slbw.onrender.com |
+| Database | MongoDB Atlas (M0) | — |
+
+The repo is deployment-ready for anyone self-hosting: `render.yaml` defines
+the backend service (environment variables: `GEMINI_API_KEY`, `MONGO_URI`,
+`CORS_ORIGINS`), and `frontend/vercel.json` configures the SPA build
+(environment variable: `VITE_API_URL`).
 
 ## API overview
 
@@ -164,6 +176,14 @@ scamshield/
 ├── render.yaml             # backend deploy blueprint
 └── .github/workflows/      # CI: pytest + frontend build
 ```
+
+## Screenshots
+
+| | |
+|---|---|
+| ![Home hub with the four checkers](docs/images/screenshots/01-home-hub.jpg) | ![Message checker](docs/images/screenshots/02-message-checker.jpg) |
+| ![Website checker](docs/images/screenshots/03-website-checker.jpg) | ![News & facts checker with fact-checking](docs/images/screenshots/04-news-checker.jpg) |
+| ![Product listing checker](docs/images/screenshots/05-product-checker.jpg) | ![Learn page with common scam patterns](docs/images/screenshots/06-learn-page.jpg) |
 
 ## Limitations & disclaimer
 
